@@ -20,8 +20,11 @@
 
 # Team
 [Chirag](https://github.com/chiragbiradar)
+
 [Akash Kumar](https://github.com/AkaskumarAK)
+
 [Apoorv Bagal](https://github.com/ApoorvBagal)
+
 [Abhishek Ray](https://github.com/7abhishe)
 
 
